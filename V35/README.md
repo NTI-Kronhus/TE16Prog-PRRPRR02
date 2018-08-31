@@ -7,7 +7,7 @@
 3. Skapa en generisk metod som tar in ett okänt antal objekt och returnerar en array av dem.
 4. Skapa en klass Box som tar in ett okänt antal objekt och lagrar dem.
 5. **Skapa en metod i klassen Box som kan jämföra ifall två stycken Boxar innehåller samma datatyp.***
-6. **Skapa en metod som tar in ett ord och skriver ut alla anagram av ordet.***
+6. **Skapa en rekursiv metod som tar in ett ord och skriver ut alla anagram av ordet.***
 7. **Skapa Application som rekursivt ritar ut ett fibonacci-träd.***
 
 \* Ej obligatoriskt
