@@ -1,5 +1,5 @@
 ## Läxa
-### Skapa ett repositpry på GitHub där du gör MINST en commit för varje uppgift!*
+### Skapa ett repositpry på GitHub där du gör MINST en commit för varje uppgift!
 
 
 1. Skapa en metod som tar in ett okänt antal heltal och returnerar deras summa.
