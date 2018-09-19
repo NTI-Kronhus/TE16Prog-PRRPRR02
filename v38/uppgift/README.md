@@ -1,7 +1,7 @@
 # Rekursion
 
 ## Hitta ut ur en labyrint 
-## [Filer](https://github.com/NTIGBG/TE16Civil-PRRPRR02/tree/master/v37)
+## [Filer](https://github.com/NTIGBG/TE16Prog-PRRPRR02/tree/master/v37)
 Skapa en class MapSolver som ska ha i uppgift att ta in en Map och sedan kunna ta sig ur den.
 
 Ni får stor firhet i att lösa uppgiften, men några mindre riktlinjer för vilket btyg ni vill satsa på finns här:
