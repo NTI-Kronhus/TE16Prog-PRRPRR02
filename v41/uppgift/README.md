@@ -1,4 +1,4 @@
-##Skapa ett schackbräde
+## Skapa ett schackbräde
 
 1. Börja med den minsta beståndsdelen av ett bräde, nämligen en ruta.
     * Skapa en class som får heta Square och som ska ärva Group.
