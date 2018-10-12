@@ -13,5 +13,7 @@
 3. Skapa nu en Application som skapar ett ChessBoard och visar det på skärmen.
 
 4. Ytterligare funktionallutet.
-    * Gör så att man i ChessBoard kan anropa en metod som ger tillbaka en Square på en viss plats. ```getSquare(int x, int y)```
-    * More to come
+    * Gör så att man i ChessBoard kan anropa en metod som ger tillbaka en Square på et visst index. ```getSquare(int x, int y)`` §`
+    * Skapa en class Pawn som för tillfället får vara en Circle som har radien = Square.SIZE/3.
+    * Skapa en metod i Square där man kan lägga till en Pawn som i sin tur visas i rutan. ```addPawn(Pawn p)```
+    * Innuti dina for-loopar lägg till 16 Pawns på rad 2 och 7 i ChessBoard.
