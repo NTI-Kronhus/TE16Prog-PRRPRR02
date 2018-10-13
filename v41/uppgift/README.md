@@ -11,6 +11,9 @@
     * Skapa nu 64 Squares i rätt färg och transelata dem till rätt position så att det blir ett fint schackbräde.
     
 3. Skapa nu en Application som skapar ett ChessBoard och visar det på skärmen.
+   * Skapa en class Chess som ärver Application.
+   * Autogenerera en start-metod och skapa en main-metod som launchar applikationen.
+   * Skapa en ny Scene som baseras på ett nytt ChessBoard och visa det i ditt Stage.
 
 4. Ytterligare funktionallutet.
     * Skapa en class Pawn som för tillfället får vara en Circle som har radien = Square.SIZE/3.
