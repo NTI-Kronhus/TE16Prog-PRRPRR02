@@ -1,7 +1,7 @@
 ## Laboration 2
 
 Syftet med denna laboration är att öva på olika verktyg för polymorfism och återanvändning av kod: arv vs delegering, superklasser vs interfaces, och principer för subklasser. <br>
-Tanken är att ni ska fortsätta på den lösning ni gjort i laboration 1. Ni ska lära er jobba med extensibilitet och polymorfism.<br>
+Tanken är att ni ska fortsätta på den lösning ni gjort i laboration 1. <br>
 <br>
 Se till att noga läsa igenom instruktionerna och att följa de regler och krav som uppgifterna föreskriver. <br>
 Börja med att kolla igenom hela beskrivningen och se vad som krävs för att få godkänt, samt med att ladda ner de filer som behövs.<br>
