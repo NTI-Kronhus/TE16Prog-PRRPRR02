@@ -8,7 +8,7 @@ Börja med att kolla igenom hela beskrivningen och se vad som krävs för att f�
 <br>
 Koden ni skriver i denna labb kommer senare att användas i laboration 3.<br>
 <br>
-Ta fram er lösning från laboration 1 och fortsätta därifrån. Är ni inte klara med laboration 1 bör ni göra detta först.
+Ta fram er lösning från laboration 1 och fortsätta därifrån. Är ni inte klara med laboration 1 bör ni göra den först.
 
 ### Uppgift A
 * Skapa en representation av en Scania-lastbil med modellnamn Scania.<br>
@@ -20,9 +20,7 @@ Ta fram er lösning från laboration 1 och fortsätta därifrån. Är ni inte kl
     Följande förhållanden ska gälla:<br>
     * Vinkeln på flaket kan inte vara lägre än 0 eller högre än 70.
     * Flaket kan enbart ha en annan vinkel än 0 om lastbilen står stilla.
-    * Lägg allt i Scania.java och skriv Javadoc för klassen och metoderna.
-
-
+  * Lägg allt i Scania.java och skriv Javadoc för klassen och metoderna.
 
 ### Uppgift B
 
@@ -37,11 +35,11 @@ Ta fram er lösning från laboration 1 och fortsätta därifrån. Är ni inte kl
   * Rampen kan endast vara nere om biltransporten står stilla.
   * Bilar kan endast lastas om rampen är nere, och de befinner sig rimligt nära biltransporten (gör ett eget antagande, de exakta detaljerna är inte viktiga).
   * Bilar kan endast lastas av om rampen är nere. De bör då hamna rimligt nära biltransporten.
-  * Bilar kan endast lastaas av i omvänd ordning från hur de lastades, dvs den sista bilen som lastades måste vara först att lossas.
+  * Bilar kan endast lastas av i omvänd ordning från hur de lastades, dvs den sista bilen som lastades måste vara först att lossas.
   * Biltransporten ska inte kunna lasta på sig själv.
   * Under det att en bil är lastad på biltransporten ska dess position i världen alltid vara densamma som biltransportens position.
 * Viktiga saker att ha i åtanke under den här uppgiften:
-  * Undvik kodduplicering för funktionalitet som är gemensam för flera olika klasser, e.g. lastbil och biltransport.
+  * Undvik kodduplicering för funktionalitet som är gemensam för flera olika klasser, ex. lastbil och biltransport.
   * Kom ihåg att skriva Javadoc-dokumentation för all kod ni skrivit.
 
 ### Uppgift C
@@ -52,7 +50,7 @@ Ta fram er lösning från laboration 1 och fortsätta därifrån. Är ni inte kl
 
 * På bilfärjan gäller samma regler som för biltransporten, med undantaget att bilar lossas i samma ordning som de lastades, dvs den första bilen som lastades måste vara först att lossas (first-in-first-out).
 * Viktiga saker att ha i åtanke under den här uppgiften:
-  * Undvik kodduplicering för funktionalitet som är gemensam för e.g. bilfärjan och biltransporten.
+  * Undvik kodduplicering för funktionalitet som är gemensam för ex. bilfärjan och biltransporten.
  
 ### Extra uppgifter för mer utmaning
   * Låt bilfärjan ha ett antal olika filer i vilka bilarna kan befinna sig. För varje fil gäller att bilarna i den filen enbart kan lastas av i samma ordning som de lastades på (first-in-first-out), men bilar från olika filer kan lastas av i olika ordning (även omväxlande mellan filerna).
