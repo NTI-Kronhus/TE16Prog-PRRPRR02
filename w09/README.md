@@ -34,7 +34,7 @@ Som tubon i detta fall.)*
 3. Eftersom en Scania körs på samma sätt som de andra bilarna men har ett flak som ytterligare funktionalitet så får du skriva ett test som ser till att Scanian fungerar som den ska med sitt flak.
 4. Skriv sedan ett test för er biltransport och ta även med transport av en annan bil i ert test.
 5. Skriv slutligen ett test för er båt. *(Du behöver bara testa det som skiljer sig från biltransporten)*
-6. När följande tester är gjorda så borde följande klasser (eller motsvarande) ha 100% code coverage:
+6. När följande tester är gjorda så borde följande klasser (eller motsvarande) ha ca 100% code coverage:
     * Vehicle.java
     * Car.java
     * Volvo740.java
